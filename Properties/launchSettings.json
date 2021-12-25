@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "sampler": {
+      "commandName": "Project",
+      "commandLineArgs": "analyze 10",
+      "workingDirectory": "c:\\Users\\lowle\\research\\dotnetos-training-11-custom-diagnostics-tools\\2-eventpipe-traces\\"
+    }
+  }
+}
